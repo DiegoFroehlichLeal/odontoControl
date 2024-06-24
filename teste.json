@@ -1,0 +1,59 @@
+{
+    "BookEntries": [
+        {
+            "id": 6100492464553984,
+            "BookEntryId": 6100492464553984,
+            "Open": "X",
+            "TreatmentOperationList": [
+                6568653899038720,
+                5108928799965184,
+                6041369354043392
+            ],
+            "TreatmentId": 5109590560473088,
+            "Amount": 3498,
+            "AtomicDate": 20240614,
+            "PostDate": "2024-06-14T20:04:15.000Z",
+            "DueDate": "2024-06-14T20:04:15.000Z",
+            "Description": "Lançamento de Tratamento",
+            "RelatedBookEntryId": 5537542511132672,
+            "PaidAmount": 0,
+            "OpenAmount": 0,
+            "CanceledAmount": 0,
+            "CheckOutAmount": 0,
+            "PaymentItems": [],
+            "ReceiverBusinessId": 4848031996837888,
+            "ReceiverBusinessName": "ENGEL ODONTOLOGIA",
+            "z_LastChange_Username": "Diogo Engel",
+            "IsLoan": false,
+            "AmountToDiscount": 0,
+            "Balance": -3498,
+            "ReferenceId": [
+                6568653899038720,
+                5108928799965184,
+                6041369354043392
+            ]
+        }
+    ],
+    "PostDate": "2024-06-14T20:04:15.000Z",
+    "PatientId": 5773860239048704,
+    "ReceiverBusinessId": 4848031996837888,
+    "PaymentForm_CharacteristicId": 5789351473053696,
+    "IsMultiplePaymentForm": "",
+    "PaymentConfirmed": "",
+    "PaymentReceipt": "NFS",
+    "NFSNumber": "nf:15308",
+    "ReceiptType": "PAYMENT",
+    "TreatmentId": 5109590560473088,
+    "Items": [],
+    "AddInfo": {
+        "AddInfo1": "Transferência",
+        "AddInfo3": "NFS"
+    },
+    "InstallmentsCount": 0,
+    "PaymentReceived": "",
+    "PartialPayment": "X",
+    "VersionTime": 1718397339719,
+    "EventListnerKey": "398f639c-9892-43c6-aade-00c43c9360f4",
+    "_UseOrchestration": "X",
+    "_AccessPath": "*.Patient.Checkout.ExecuteCheckout"
+}
